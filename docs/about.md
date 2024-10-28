@@ -4,6 +4,7 @@ For personal use only.
 Contents might come from github, website and AI.
 
 Star it if you like:) https://github.com/wsqstar/nlpnote 
+This site currently hosted on：https://nlp.gistudy.net/
 ## Guide of MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
@@ -14,6 +15,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
+* `mkdocs gh-deploy` - depoly to github pages (but not backup markdown files)
 
 ## Project layout
 
