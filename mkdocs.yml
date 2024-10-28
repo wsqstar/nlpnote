@@ -3,4 +3,5 @@ nav:
   - Home: index.md
   - About | 关于: about.md
   - Reading: reading/nlp1.md
+  - Suggestions: reading/suggestions.md
 theme: readthedocs
