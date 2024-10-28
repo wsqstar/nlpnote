@@ -2,4 +2,5 @@ site_name: NLP Study
 nav:
   - Home: index.md
   - About | 关于: about.md
+  - Reading: reading/nlp1.md
 theme: readthedocs

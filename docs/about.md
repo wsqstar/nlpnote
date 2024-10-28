@@ -3,8 +3,10 @@ Here is my NLP study note~
 For personal use only.
 Contents might come from github, website and AI.
 
-Star it if you like:) https://github.com/wsqstar/nlpnote 
-This site currently hosted on：https://nlp.gistudy.net/
+* Star it if you like:) [https://github.com/wsqstar/nlpnote](https://github.com/wsqstar/nlpnote) 
+
+* This site currently hosted on：[https://nlp.gistudy.net/](https://nlp.gistudy.net/)
+
 ## Guide of MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
