@@ -2,6 +2,8 @@
 Here is my NLP study note~
 For personal use only.
 Contents might come from github, website and AI.
+
+Star it if you like:) https://github.com/wsqstar/nlpnote 
 ## Guide of MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
