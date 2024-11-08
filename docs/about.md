@@ -5,7 +5,7 @@ Contents might come from github, website and AI.
 
 * Star it if you like:) [https://github.com/wsqstar/nlpnote](https://github.com/wsqstar/nlpnote) 
 
-* This site currently hosted on：[https://nlp.gistudy.net/](https://nlp.gistudy.net/)
+* This site currently hosted on：[https://www.gistudy.net/nlpnote](https://nlp.gistudy.net/)
 
 ## Guide of MkDocs
 
